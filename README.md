@@ -22,7 +22,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 <br>
 
-
 <h3> 🛠 Tools and Environments</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
@@ -36,12 +35,11 @@
 
 <h3> 📊  Data</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=weipeng0703&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="weipeng's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/weipeng0703/github-readme-stats)
-
+<a href="https://github.com/weipeng0703">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weipeng0703&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=buefy&layout=compact" />
+</a>
+<br/>
 
 <h3> 📧 Connect with Me </h3>
 
