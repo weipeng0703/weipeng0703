@@ -41,12 +41,11 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=weipeng0703&theme=buefy&show_icons=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=buefy&layout=compact" />
 </a>
-<br/>
 <br>
 
 <h3> 📧 Connect with Me </h3>
 
-<p align="left">
+<p align="center">
 &nbsp; <a href="mailto:chenweipeng0703@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
