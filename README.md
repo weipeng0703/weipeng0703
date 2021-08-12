@@ -7,8 +7,7 @@
 - 🤔 &nbsp; I like Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and technology.
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🤖 &nbsp; Recently enthusiast in Artificial Intelligence, especially Generat Adversarial Network (GAN).
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.            
+- 🤖 &nbsp; Recently enthusiast in Artificial Intelligence, especially GAN.            
 - 🎮 &nbsp; Outside of studying, I like to relax with games.
 - ⚽ &nbsp; Of course, football is also a way to relieve stress in my daily life.
 <br>
@@ -33,6 +32,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 <br>
+
+<h3> 🌐 Language and Framework</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
