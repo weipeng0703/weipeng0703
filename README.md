@@ -7,13 +7,13 @@
 - 🤔 &nbsp; I like Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and technology.
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🤖 &nbsp; Recently enthusiast in Artificial Intelligence, 
--            especially Generat Adversarial Network (GAN).
+- 🤖 &nbsp; Recently enthusiast in Artificial Intelligence, especially Generat Adversarial Network (GAN).
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.            
 - 🎮 &nbsp; Outside of studying, I like to relax with games.
 - ⚽ &nbsp; Of course, football is also a way to relieve stress in my daily life.
 <br>
 
-<h3>🌐 Language and Framework</h3>
+<h3> 🌐 Language and Framework</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
@@ -22,7 +22,7 @@
 <code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
-<h3>🛠 Tools and Environments</h3>
+<h3> 🛠 Tools and Environments</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
