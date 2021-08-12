@@ -12,7 +12,7 @@
 - ⚽ &nbsp; Of course, football is also a way to relieve stress in my daily life.
 <br>
 
-<h3> 🌐 Language and Framework</h3>
+<h3> 🌐 Languages and Frameworks</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
