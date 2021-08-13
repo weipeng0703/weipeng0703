@@ -38,8 +38,8 @@
 <h3> 📊  Data</h3>
 
 <a href="https://github.com/weipeng0703">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=weipeng0703&theme=buefy&show_icons=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weipeng0703&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=buefy&layout=compact" />
 </a>
 <br>
 
