@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning C++.
 - 🤔 &nbsp; I like Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science and technology.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 💼 &nbsp; Currently enrolled in a Master's degree in Computer Science and Technology.
 - 🤖 &nbsp; Recently enthusiast in Artificial Intelligence, especially GAN.            
 - 🎮 &nbsp; Outside of studying, I like to relax with games.
 - ⚽ &nbsp; Of course, football is also a way to relieve stress in my daily life.
