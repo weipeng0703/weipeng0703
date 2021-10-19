@@ -38,10 +38,10 @@
 <h3> 📊  Data</h3>
 
 <a href="https://github.com/weipeng0703">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weipeng0703&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=buefy&layout=compact&count_private=true" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=radical&hide=glsl,python" />
-  <img src="https://github-readme-stats.vercel.app/api?username=weipeng0703&&show_icons=true&theme=radical&line_height=27&v=5" alt="Weipeng's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weipeng0703&theme=radical&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=radical&layout=compact&count_private=true" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weipeng0703&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api?username=weipeng0703&&show_icons=true&theme=radical&line_height=27&v=5" alt="Weipeng's GitHub Stats" /> -->
 </a>
 <br>
 
