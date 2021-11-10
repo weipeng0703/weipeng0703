@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning C++.
-- 🤔 &nbsp; I like Exploring new technologies.
+- 🔭 &nbsp; Currently learning C++.
+- 🤔 &nbsp; Like Exploring new technologies.
 - 🎓 &nbsp; Currently enrolled in a Master's degree in Computer Science and Technology.
 - 💼 &nbsp; Like to balance study and life.
-- 🤖 &nbsp; Recently enthusiast in Artificial Intelligence, especially GAN.            
-- 🎮 &nbsp; Outside of studying, I like to relax with games.
-- ⚽ &nbsp; Of course, football is also a way to relieve stress in my daily life.
+- 🤖 &nbsp; Recently enthusiast in Artificial Intelligence.            
+- 🎮 &nbsp; Like cs:go.
+- ⚽ &nbsp; Love football.
 <br>
 
 <h3> 🌐 Languages and Frameworks</h3>
