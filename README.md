@@ -1,11 +1,10 @@
 <h2> Hey there!   I'm weipeng！ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; C/C++.
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Currently enrolled in a Master's degree in Computer Science and Technology.
+- 🎓 &nbsp; Master's degree in Computer Science and Technology.
 - 💼 &nbsp; Balance study and life.
 - 🤖 &nbsp; Artificial Intelligence.            
 - 🎮 &nbsp; CS:GO.
