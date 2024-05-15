@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; C/C++.
+- 🔭 &nbsp; Mainly engaged in Embedded Software Development based on C/C++.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Master's degree in Computer Science and Technology.
 - 💼 &nbsp; Balance study and life.
