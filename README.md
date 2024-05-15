@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Master's degree in Computer Science and Technology.
 - 💼 &nbsp; Balance study and life.
 - 🤖 &nbsp; Artificial Intelligence.            
-- 🎮 &nbsp; CS:GO.
+- 🎮 &nbsp; CS:GO & CS2.
 - ⚽ &nbsp; Football.
 <br>
 
